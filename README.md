@@ -89,7 +89,9 @@ python archery.py
 
 ## 📸 Screenshots
 
-![game1](assets/game1.png) ![game2](assets/game2.png) ![game3](assets/game3.png)
+| Gameplay | Level 2 | Game Over |
+|----------|---------|-----------|
+| ![game1](assets/game1.png) | ![game2](assets/game2.png) | ![game3](assets/game3.png) |
 
 ---
 
