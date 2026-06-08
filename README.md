@@ -26,8 +26,8 @@ A fast-paced 2D archery game built with Python and Pygame. Take aim, time your s
 
 | Hit Zone         | Points |
 |------------------|--------|
-| Bullseye (center) | +9     |
-| Inner ring        | +4     |
+| Bullseye (center) | +10     |
+| Inner ring        | +5     |
 | Outer ring        | +1     |
 
 ---
@@ -89,7 +89,7 @@ python archery.py
 
 ## 📸 Screenshots
 
-![game1](<Screenshot 2026-06-08 214129.png>) ![game2](<Screenshot 2026-06-08 214159.png>) ![game3](<Screenshot 2026-06-08 214212.png>)
+![game1](<assests/game1.png>) ![game2](<assests/game2.png>) ![game3](<assests/game3.png>)
 
 ---
 
