@@ -89,7 +89,7 @@ python archery.py
 
 ## 📸 Screenshots
 
-![game1](assests/game1.png) ![game2](assests/game2.png) ![game3](assests/game3.png)
+![game1](assets/game1.png) ![game2](assets/game2.png) ![game3](assets/game3.png)
 
 ---
 
