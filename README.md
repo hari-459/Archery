@@ -54,7 +54,7 @@ A fast-paced 2D archery game built with Python and Pygame. Take aim, time your s
 
 ## 🛠️ Requirements
 
-- Python 3.x
+- Python3
 - Pygame
 
 Install Pygame via pip:
@@ -75,7 +75,6 @@ Make sure the following files are in the **same directory** as `archery.py`:
 | `aimboard.png`| Target board sprite image|
 | `bgm.mp3`     | Background music         |
 | `hit.mp3`     | Hit sound effect         |
-| `freesansbold.ttf` | Font file           |
 
 ---
 
